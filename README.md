@@ -5,16 +5,26 @@ SAGE
 
 to make drawable shape without needing to make drawable file in your layout XML and add EasyView library in your project or you can also grab it via Gradle:
 
+
+In Project module add
+
 ```groovy
-
-implementation 'implementation 'com.github.jrayoub:Easy-view:1.0.0''
-
-
 
 repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
+		
+		
+```
+In App module add
+```groovy
+
+implementation 'com.github.jrayoub:Easy-view:1.0.0'
+
+
+
+
 ```
 
 XML
