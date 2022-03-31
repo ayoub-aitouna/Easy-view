@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="GradientText">
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="angle" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="MyView">
+        <attr name="MyView_color" format="color" />
+        <attr name="MyView_startColor" format="color" />
+        <attr name="MyView_endColor" format="color" />
+        <attr name="MyView_angle" format="integer" />
+        <attr name="MyView_radius" format="integer" />
+        <attr name="MyView_radiusTopLeft" format="integer" />
+        <attr name="MyView_radiusTopRight" format="integer" />
+        <attr name="MyView_radiusBottomLeft" format="integer" />
+        <attr name="MyView_radiusBottomRight" format="integer" />
+        <attr name="MyView_borderWidth" format="integer" />
+        <attr name="MyView_borderColor" format="color" />
+    </declare-styleable>
+</resources>
