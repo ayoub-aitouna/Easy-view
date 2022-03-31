@@ -64,6 +64,8 @@ Easy modifiable View
         custom:MyView_radius="50"
         custom:MyView_startColor="#2196F3" />
 ```
+
+Easy modifiable LinearLayout
 ```xml
 <project.savvycom.mylibrary.MyViews.MyLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
